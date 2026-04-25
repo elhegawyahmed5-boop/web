@@ -1,0 +1,54 @@
+```
+# Compiled and build artifacts
+*.dll
+*.pdb
+*.so
+*.exe
+*.class
+*.pyc
+__pycache__/
+*.o
+*.obj
+*.out
+
+# Dependencies and packages
+node_modules/
+venv/
+.venv/
+lib/
+bin/
+obj/
+
+# Runtime and framework files
+*.runtimeconfig.json
+*.deps.json
+createdump
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Build outputs
+dist/
+build/
+target/
+```
